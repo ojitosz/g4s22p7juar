@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package tarea7;
+package g4s22p7juar;
 
 /**
  *
  * @author USUARIO
  */
-public class Tarea7 {
+public class g4s22p7juar {
 
     /**
      * @param args the command line arguments
